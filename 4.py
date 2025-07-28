@@ -1,3 +1,10 @@
+#The us_total.csv contains data on the demand for natural gas in the US.
+
+# Download us_total.csv from the book website read in the csv file using pd.read_csv().
+# Create a dataframe from us_total with year as the index.
+# Plot the annual natural gas consumption by state for the New England area (comprising the states of Maine, Vermont, New Hampshire,
+# Massachusetts, Connecticut and Rhode Island).
+
 from sktime.utils.plotting import plot_series
 import matplotlib.pyplot as plt # É uma boa prática importar o matplotlib para exibir o plot
 

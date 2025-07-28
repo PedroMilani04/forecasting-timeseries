@@ -1,3 +1,10 @@
+# Download the file tute1.csv from the book website, open it in Excel (or some other spreadsheet application), 
+# and review its contents. You should find four columns of information. Columns B through D each contain a quarterly series, 
+# labelled Sales, AdBudget and GDP. Sales contains the quarterly sales for a small company over the period 1981-2005. 
+# AdBudget is the advertising budget and GDP is the gross domestic product. All series have been adjusted for inflation.
+
+
+
 from sktime.utils.plotting import plot_series
 import matplotlib.pyplot as plt # É uma boa prática importar o matplotlib para exibir o plot
 

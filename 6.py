@@ -1,3 +1,8 @@
+#The aus_arrivals data set comprises quarterly international arrivals to Australia from Japan, New Zealand, UK and the US.
+
+#Use plot_series() to visualize the data.
+#Use seaborn or matplotlib to create seasonal and subseries plots to compare the differences between the arrivals from these four countries and identify any unusual observations.
+
 from sktime.utils.plotting import plot_series
 import matplotlib.pyplot as plt # É uma boa prática importar o matplotlib para exibir o plot
 

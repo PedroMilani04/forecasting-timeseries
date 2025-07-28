@@ -1,3 +1,12 @@
+#Explore the following four time series: Bricks from aus_production, Lynx from pelt, GOOG_Close from gafa_stock, Demand from vic_elec.
+#Use info() to find out about the data in each series.
+#What is the time interval of each series?
+#Use plot_series() to produce a time plot of each series.
+#For the last plot, modify the axis labels and title.
+
+#Use query() to find what days corresponded to the peak closing price for each of the four stocks in gafa_stock.
+
+
 from sktime.utils.plotting import plot_series
 import matplotlib.pyplot as plt # É uma boa prática importar o matplotlib para exibir o plot
 

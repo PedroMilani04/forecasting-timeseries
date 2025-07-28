@@ -1,3 +1,9 @@
+#Explore your chosen retail time series using the following functions:
+
+#plot_series(), seasonal_decompose(), lag_plot(), plot_acf()
+
+#Can you spot any seasonality, cyclicity and trend? What do you learn about the series?
+
 from sktime.utils.plotting import plot_series
 from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.graphics.tsaplots import plot_acf
