@@ -1,6 +1,6 @@
 # Time Series Data Handling and Visualization with `sktime` and `statsmodels`
 
-This repository contains solutions and practical exercises for **Topic 2.10: Graphics** from the textbook "[Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/nbs/02-graphics.html#sec-graphics-reading)". It implements a **time series analysis pipeline** focusing on the crucial initial steps: data preparation and graphical exploration using key Python libraries.
+This repository contains solutions and practical exercises for **Topic 2.10: Exercises** from the textbook "[Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/nbs/02-graphics.html#sec-graphics-exercises)". It implements a **time series analysis pipeline** focusing on the crucial initial steps: data preparation and graphical exploration using key Python libraries.
 
 ---
 
